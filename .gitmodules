@@ -1,3 +1,9 @@
 [submodule "drinx-frontend"]
 	path = drinx-frontend
 	url = https://github.com/ProjectDrinX/drinx-frontend.git
+[submodule "drinx-documents"]
+	path = drinx-documents
+	url = https://github.com/ProjectDrinX/drinx-documents.git
+[submodule "BeamIO"]
+	path = BeamIO
+	url = https://github.com/ProjectDrinX/BeamIO.git
