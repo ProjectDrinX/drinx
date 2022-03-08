@@ -1,0 +1,3 @@
+[submodule "drinx-frontend"]
+	path = drinx-frontend
+	url = https://github.com/ProjectDrinX/drinx-frontend.git
