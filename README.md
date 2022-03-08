@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/Mathieu2301/ProjetDrinX/main/Frontend/Design/Logo/Alcool.svg?token=GHSAT0AAAAAABRNJRES5NY65NX7RFB62KGGYROFFBQ)
+![Logo](https://raw.githubusercontent.com/ProjectDrinX/drinx-documents/main/Design/Logo/Alcool.svg)
 
 
 # DrinX
