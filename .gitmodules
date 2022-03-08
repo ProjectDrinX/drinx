@@ -4,6 +4,9 @@
 [submodule "drinx-documents"]
 	path = drinx-documents
 	url = https://github.com/ProjectDrinX/drinx-documents.git
+[submodule "drinx-server"]
+	path = drinx-server
+	url = https://github.com/ProjectDrinX/drinx-server
 [submodule "BeamIO"]
 	path = BeamIO
 	url = https://github.com/ProjectDrinX/BeamIO.git
