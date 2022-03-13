@@ -10,3 +10,4 @@
 [submodule "BeamIO"]
 	path = BeamIO
 	url = https://github.com/ProjectDrinX/BeamIO.git
+	branch = main
