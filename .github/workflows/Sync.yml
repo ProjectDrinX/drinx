@@ -1,7 +1,9 @@
-name: Sync
+name: Sync Submodules
 
 on:
   workflow_dispatch:
+  schedule:
+  - cron: '0 0 * * *'
 
 jobs:
   sync:
@@ -18,7 +20,7 @@ jobs:
       - name: Sync submodules
         run: git submodule update --init --recursive --remote
       - name: Commit changes
-        run: git commit -m "Sync submodules" -a
+        run: git commit -m "Auto sync submodules" -a || echo "No submodules changes"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
